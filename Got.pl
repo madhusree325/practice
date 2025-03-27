@@ -6,3 +6,4 @@ git add Got.pl
 git commit -m ""
 git push -u origin main
 git branch
+That's it
